@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Uni Sans Heavy CAPS';
+    src: url('../fonts/Uni Sans Heavy.otf')  format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans Regular';
+    src: url('../fonts/OpenSans-Regular.ttf')  format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans Bold';
+    src: url('../fonts/OpenSans-Bold.ttf')  format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans ExtraBold';
+    src: url('../fonts/OpenSans-ExtraBold.ttf')  format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans SemiBold';
+    src: url('../fonts/OpenSans-SemiBold.ttf')  format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans SemiBold Italic';
+    src: url('../fonts/OpenSans-SemiBoldItalic.ttf')  format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas Neue Bold';
+    src: url('../fonts/BebasNeue Bold.otf')  format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
